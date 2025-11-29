@@ -98,27 +98,6 @@ me.say_hi()
 
 ---
 
-## 🎯 Current Focus
-
-mindmap
-  root((AI Journey))
-    Learning Path
-      Deep Learning
-        Computer Vision
-        NLP
-        LLMs
-    Skills
-      PyTorch
-      TensorFlow
-      LangChain
-    Projects
-      RAG Systems
-      YOLO Models
-      Fine-tuning
-    Goals
-      Research
-      Production ML
-      Open Source
 
 ---
 

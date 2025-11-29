@@ -68,7 +68,7 @@ me.say_hi()
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
+
 
 ---
 
@@ -86,8 +86,6 @@ me.say_hi()
 
 ---
 
----
-
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - 🎯 Hướng dẫn fine-tune LLM cho tiếng Việt
@@ -95,9 +93,6 @@ me.say_hi()
 - 💡 Computer Vision với YOLO: Từ lý thuyết đến thực hành
 - 🚀 Tips & tricks khi training models trên Kaggle
 <!-- BLOG-POST-LIST:END -->
-
----
-
 
 ---
 

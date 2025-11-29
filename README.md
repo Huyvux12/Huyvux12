@@ -100,26 +100,30 @@ me.say_hi()
 
 ## 🎯 Current Focus
 
-```mermaid
 mindmap
-  root((AI Journey))
-    Deep Learning
-      Computer Vision
-      NLP
-      LLMs
-    Projects
-      RAG Systems
-      YOLO Models
-      Fine-tuning
-    Skills
-      PyTorch
-      TensorFlow
-      LangChain
-    Goals
-      Research
-      Production ML
-      Open Source
-```
+  root((🤖 AI Journey))
+
+    ══ 🎓 Learning Path
+      🧠 Deep Learning
+        👁️ Computer Vision
+        💬 NLP
+        🏷️ LLMs
+
+    ══ 🛠️ Skills
+      🔥 PyTorch
+      ⚙️ TensorFlow
+      🔗 LangChain
+
+    ══ 🚀 Projects
+      📚 RAG Systems
+      🎯 YOLO Models
+      🎛️ Fine-tuning
+
+    ══ 🎯 Goals
+      🔬 Research
+      🏭 Production ML
+      🌍 Open Source
+
 
 ---
 

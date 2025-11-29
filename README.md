@@ -143,31 +143,7 @@ mindmap
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
-
 ---
 
-## 📈 Activity Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
-
-<div align="center">
-
-### 💡 "The best way to predict the future is to create it." - Alan Kay
-
-### ⭐️ From [Your Username](https://github.com/YOUR_USERNAME)
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge)
-
-</div>
-
-<div align="center">
-
-### 💡 "The best way to predict the future is to create it." - Alan Kay
-
-### ⭐️ From [Your Username](https://github.com/YOUR_USERNAME)
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge)
-
-</div>

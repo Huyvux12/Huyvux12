@@ -34,17 +34,9 @@ me = AIStudent()
 me.say_hi()
 ```
 
-- 🎓 Đang học chuyên ngành **Trí tuệ nhân tạo**
-- 🔭 Hiện đang nghiên cứu về **Deep Learning & Computer Vision**
-- 🌱 Đang học **PyTorch, TensorFlow, và các LLM frameworks**
-- 💡 Đam mê xây dựng các AI applications thực tế
-- 🎯 Mục tiêu: Trở thành AI Engineer/Researcher chuyên nghiệp
-
-- 🎓 Đang học chuyên ngành **Trí tuệ nhân tạo**
-- 🔭 Hiện đang nghiên cứu về **Deep Learning & Computer Vision**
-- 🌱 Đang học **PyTorch, TensorFlow, và các LLM frameworks**
-- 💡 Đam mê xây dựng các AI applications thực tế
-- 🎯 Mục tiêu: Trở thành AI Engineer/Researcher chuyên nghiệp
+**🎓 Sinh viên ngành Trí tuệ nhân tạo, yêu thích Deep Learning & Computer Vision.
+🔬 Hiện đang học và thực hành PyTorch, TensorFlow cùng các mô hình LLM.
+🚀 Đam mê xây dựng ứng dụng AI thực tế và hướng tới nghề AI Engineer/Researcher.**
 
 ---
 
@@ -78,34 +70,6 @@ me.say_hi()
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-### 🎯 [Project Name 1](link-to-repo)
-**Vietnamese Legal Document Retrieval System**
-- 🔥 RAG architecture với Qdrant vector database
-- 💡 Sử dụng Gemini API & LangChain
-- 📊 Fine-tuned embedding models cho legal domain
-
----
-
-### 🎨 [Project Name 2](link-to-repo)
-**YOLO-based Manga Analysis**
-- 🖼️ Speech balloon detection & segmentation
-- 🚀 Trained on Manga109 dataset
-- ⚡ Optimized for real-time inference
-
----
-
-### 🧠 [Project Name 3](link-to-repo)
-**LLM Fine-tuning Project**
-- 🎯 Chess move prediction với Qwen2.5-7B
-- 🔧 Sử dụng Unsloth framework
-- 📈 Training trên GPU H100
-
-</div>
-
 ---
 
 ## 📊 GitHub Stats
@@ -121,14 +85,6 @@ me.say_hi()
 </div>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
@@ -171,10 +127,10 @@ mindmap
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([your-linkedin](https://www.linkedin.com/in/huy-v%C5%A9-730797373/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huy-v%C5%A9-730797373/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vutienhuy.k51a2@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([your-facebook](https://www.facebook.com/huy.vu.440145/))
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](Huy-Vũ)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/huy.vu.440145/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/huyvuk51)
 
 </div>
 

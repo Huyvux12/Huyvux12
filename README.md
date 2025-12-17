@@ -76,14 +76,12 @@ me.say_hi()
 
 <div align="center">
   
-<!-- Thử với Huyvux12 -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Huyvux12&theme=tokyonight&hide_border=true&background=0D1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Huyvux12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
-<!-- Hoặc thử với huyvux12 (chữ thường) -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=huyvux12&theme=tokyonight&hide_border=true&background=0D1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Huyvux12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
-<!-- Hoặc thêm tham số reload -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Huyvux12&theme=tokyonight&hide_border=true&background=0D1117&date_format=j%20M%5B%20Y%5D&reload=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=Huyvux12&theme=tokyonight&hide_border=true&background=0D1117)
+
 </div>
 
 ---
@@ -119,6 +117,5 @@ me.say_hi()
 
 </div>
 ---
-
 
 

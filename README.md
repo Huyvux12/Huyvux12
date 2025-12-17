@@ -80,7 +80,7 @@ me.say_hi()
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Huyvux12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Huyvux12&theme=tokyonight&hide_border=true&background=0D1117)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=Huyvux12&theme=tokyonight&hide_border=true&background=0D1117)
 
 </div>
 

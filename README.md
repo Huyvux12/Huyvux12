@@ -30,7 +30,7 @@ Currently learning: PyTorch · Transformers · RAG · Fine-tuning LLMs
 
 ## 📊 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Huyvux12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+![Contributions](https://ghchart.rshah.org/Huyvux12)
 
 ---
 

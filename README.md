@@ -30,7 +30,17 @@ Currently learning: PyTorch · Transformers · RAG · Fine-tuning LLMs
 
 ## 📊 Stats
 
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Huyvux12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+
 ![Contributions](https://ghchart.rshah.org/Huyvux12)
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Huyvux12/Huyvux12/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Huyvux12/Huyvux12/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Huyvux12/Huyvux12/output/github-snake.svg" />
+</picture>
 
 ---
 
